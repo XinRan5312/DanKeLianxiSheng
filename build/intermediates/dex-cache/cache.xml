@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/ac39d2547cd142ae6c13316cf70f13673c36e706/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_c20341efd69054281747676444ea3c18ac292d6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/3d0b4a6f18957dc3bc64faa9e142c00c6f629ac2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_dd3bf238deeb5942dce1e0bfd3845cef5f677e8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/5f61a247d50cd99b03d44f39cff9a88fc3981117/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_fd2daeeb193872590907aa8231b8e78aff436d87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/09fa348c78d893fa01436832b6d01677e50ab100/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_f52d27052036309006b3ad7896606b2ab349ceba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/3478b0806534da7b1d2e15f8158fc14748d86928/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_dd651a6405ad00caec8275bd920f53af5f8ca426.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/2df141bacd66fc22113bfe1797f66918f759581e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_dc51f144bdb84f354fa9511ab0b8639ce98dde6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/d325fa74c095188cbd69b976641fab8e6003f985/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_cb27f149d2b29a139d56a68a053d2782da52fcff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/8d8208744ed7e34d6b9ce9234dbef96980ae8055/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_bb0fb6c02425b591e1570314b7159f9e9cf02e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/9df13ff011c9481250d7e20edfebc925a27a1a66/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_41bad0d12bf69979f6bc2e265515e9671bb9b934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/10b4e5f106686c1bd542a8156eb89febb8ee785d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_7f275ab11e5083ade0c9cf3d17e3b1a2b7d46ffb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_8af1611ccc569a95445a424c03f2a013011aa0ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/android-sdk-macosx/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_dfd3f4c65654b91b5afb9acd6692a084df9d3dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/d7fecc112de6480ca4435e7f54e247deafdc665a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/xinran/workspace/danke_space/StudyInDanKe/app/build/intermediates/pre-dexed/debug/classes_289fb83c6c2081584a30159563c05598de84626b.jar" />
+    </item>
+
+</items>

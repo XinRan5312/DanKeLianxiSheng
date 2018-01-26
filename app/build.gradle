@@ -1,5 +1,69 @@
 apply plugin: 'com.android.application'
 
+boolean isInJeknins() {
+    Map<String, String> map =  System.getenv()
+
+    if(map == null) {
+        return false
+    }
+    String str = map.get("Path")
+    if(str != null) {
+        //it's windows
+        return false;
+    }
+    else{
+        str = ""
+        Iterator it = map.iterator();
+        while(it.hasNext()) {
+            str += it.next();
+        }
+        if(str.contains("jenkins")){
+            return true
+        }else{
+            return false;
+        }
+    }
+    return false
+}
+def getJenkinsBuild() {
+    boolean  flag = isInJeknins();
+    if(flag){
+        ext.env = System.getenv()
+        ext.buildNumber = env.BUILD_NUMBER?.toInteger()
+        return "$buildNumber"
+    }else{
+        return "0"
+    }
+
+}
+
+// 获取当前系统时间
+def releaseTime() {
+    return new Date().format("yyyy-MM-dd", TimeZone.getTimeZone("UTC"))
+}
+
+// 获取程序名称
+def getProductName(){
+    return "gradlesample"
+}
+
+// 读取版本号
+def getVersionCode() {
+    def versionFile = file('version.properties')
+    if (versionFile.canRead()){
+        def Properties versionProps = new Properties()
+        versionProps.load(new FileInputStream(versionFile))
+        def versionCode = versionProps['VERSION_CODE'].toInteger()
+        def runTasks = gradle.startParameter.taskNames
+        if ('assembleRelease' in runTasks) {
+            versionProps['VERSION_CODE'] = (++versionCode).toString()
+            versionProps.store(versionFile.newWriter(), null)
+        }
+        return versionCode
+    } else {
+        throw new GradleException("Could not find version.properties!")
+    }
+}
 android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
@@ -28,5 +92,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.3.1'
     compile 'com.android.support:recyclerview-v7:25.3.1'
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
+    compile 'com.android.support:design:25.3.1'//引入Material Design支持包 使用其相关布局http://blog.csdn.net/mchenys/article/details/51534722
     testCompile 'junit:junit:4.12'
 }

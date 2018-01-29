@@ -15,3 +15,6 @@
 7.android.support.v7.widget.CardView其实就是一个继承自Fragment的布局，我们只是可以直接设置倒角阴影等，做item不错
 
 8.BottomSheetDialog 是android.support.design.widget包内的一个自定义的支持BottomSheetBehavior的Dialog
+
+9.一行代码搞定反射：https://github.com/tianzhijiexian/Android-Best-Practices/blob/52d2a5c2a7ce6eb09d7bdbbc31a3d9e7d1a07350/2015.9/reflect/reflect.md
+     比如设置ScrollView可以缓冲滑动： Reflect.on(scrollView).set("mOverflingDistance", 100);

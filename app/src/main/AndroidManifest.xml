@@ -3,19 +3,27 @@
     package="com.xinran.studyindanke">
 
     <application
+        android:name=".RApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".NestedScrollViewActvity">
+        <activity android:name=".bootsheet.BootSheetMainActvity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".bootsheet.NestedScroollViewActvity"/>
+        <activity android:name=".bootsheet.RecylerViewActvity"/>
+        <activity android:name=".bootsheet.BootSheetDialogActvity"/>
+        <activity android:name=".bootsheet.BeautifulActvity"/>
+        <meta-data
+            android:name="com.google.android.gms.vision.DEPENDENCIES"
+            android:value="face" />
     </application>
 
 </manifest>

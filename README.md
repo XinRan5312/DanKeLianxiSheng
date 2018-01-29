@@ -6,3 +6,12 @@
 
 3.自动化更新gradle build app的versionCode：http://blog.51cto.com/ljianbing/1744928  http://blog.csdn.net/baidu_nod/article/details/38147551
 
+4.一个牛奔的音乐软件https://github.com/DuanJiaNing/Musicoco
+
+5.https://github.com/Kyson/AndroidGodEye/ 在PC查看手机性能
+
+6.一个很好的MVP架构的阅读性软件 https://github.com/BryantPang/ReadHub
+
+7.android.support.v7.widget.CardView其实就是一个继承自Fragment的布局，我们只是可以直接设置倒角阴影等，做item不错
+
+8.BottomSheetDialog 是android.support.design.widget包内的一个自定义的支持BottomSheetBehavior的Dialog

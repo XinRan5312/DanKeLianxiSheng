@@ -3,57 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/xinran/.android/build-cache/0a79b8acf9ea2f471648f1df9c601f13c94f87d4/output/jars/classes.jar"
+        jar="/Users/xinran/danke/mygithub/DanKeLianxiSheng/nicedialog/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
-        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_08a115f310f94bd68f29ec36752331bca54f9e8a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/xinran/.android/build-cache/1b3a2499bc046e35ecfd98123e67dedc7a4bae3b/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
-        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_73fd2c7f915199f604c149df20a9a4faf474dbe2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/xinran/.android/build-cache/2a9814fc11cabb51c3693fcd7439743c350197a9/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_1f5a1136fa6365081e6b98c3c123d0def700b8f3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/xinran/.android/build-cache/a6803c0e22ac0e94e59e7c9a78b4f44d5dd35983/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_a0ce8110c158f2da3408930331758c9521675474.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/xinran/.android/build-cache/325799d0f56609c6a6ab47ad747ceadfb952566e/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_27c47b564a1174a03924146571621604114e23d8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/xinran/.android/build-cache/340c18e2f3c754d62220902f4101de081dccd40a/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.3"
-        sha1="17449c47df35c754b257532052f1270c444f7993">
-        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_718dfe36100845deece8274d4f4b7076f4027121.jar" />
+        sha1="db7b915b5b8d531e0467b986f0dd0bc3da0aa70f">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_afd7baba50faca02dc7660a3e5eedc104f6fea98.jar" />
     </item>
 
 </items>

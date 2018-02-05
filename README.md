@@ -22,3 +22,7 @@
 10.拼图滑块 创意验证码控件：https://github.com/luozhanming/Captcha   https://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824937&idx=1&sn=8a29d81d0cdec350b4d5521c322db8dc&chksm=80b7b477b7c03d61107d08f387f5e6323ff592132385a82ce53f0b1860febdfe7d94fdfc8c45&mpshare=1&scene=1&srcid=0130vDNiUtplFw6PUaHDd6g1&key=ceb62083117db9ae4242c2929f5da9a7c2d7ef7cac9dd0f6b2ad743efff1b88290daa1be01f296706b52a5d9c6423fd01414924df3d4de4427b6f224247636df8fce0f847139dd3591c96114e468dc0c&ascene=0&uin=MjIzNzQ2NDAwMA%3D%3D&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.12.6+build(16G1114)&version=12010210&nettype=WIFI&lang=zh_CN&fontScale=100&pass_ticket=Dcyvr%2BC6ONdJUCzi5CYMQpBrJS4fixuPJ%2BU6RBzGCFSQIAQb%2F0ZZQ00c%2FKgSzwNZ
 
 11.友盟分享 ：https://github.com/wildma/UMengThirdPartyShareLogin
+
+12.AES加密https://www.jianshu.com/p/b0411daf7d7e 另一个方式http://blog.csdn.net/huanongjingchao/article/details/45768847
+
+    另一种更好的方式：http://blog.csdn.net/z1246300949/article/details/51038245

@@ -26,3 +26,12 @@
 12.AES加密https://www.jianshu.com/p/b0411daf7d7e 另一个方式http://blog.csdn.net/huanongjingchao/article/details/45768847
 
     另一种更好的方式：http://blog.csdn.net/z1246300949/article/details/51038245
+    
+13.https://github.com/cymcsg/UltimateRecyclerView  一款提供刷新、加载更多、动画特效等额外能力的RecyclerView框架
+
+14.https://github.com/luckybilly/CC   简单但强大的安卓组件化框架
+
+15.https://github.com/h6ah4i/android-advancedrecyclerview 一个强大的RecylerView库 滑动删除 交换item等
+
+16.https://www.jianshu.com/p/98ee75dd49f4 在mock和prod不同的变体 同样的类同样的方法 但是方法的实现内容不一样 实现不同的效果
+    也可以看做是不同的安装包，手机上也会成为俩APP

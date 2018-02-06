@@ -6,6 +6,6 @@ package com.xinran.studyindanke;
 
 public class StringUtil {
     public static String newString(){
-        return "I am mock";
+        return "I am prod";
     }
 }

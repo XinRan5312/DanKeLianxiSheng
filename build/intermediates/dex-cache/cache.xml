@@ -3,12 +3,138 @@
 
     <item
         is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.0/f765f004f3e201bd6ad0904266e605d7fb776d5/logging-interceptor-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0f765f004f3e201bd6ad0904266e605d7fb776d5">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/logging-interceptor-3.8.0_054d19726cc67731cba6f58010a89333e8da83ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/adapter-rxjava2/2.3.0/f436637f9500ab5b8bc32afe556373180894b4a5/adapter-rxjava2-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f436637f9500ab5b8bc32afe556373180894b4a5">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/adapter-rxjava2-2.3.0_a1d774e2819a9d24da8847d6c61de81b8748169b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/32481b7727dc620bce6edcf40cc793cee6f179da/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e20f3c5e0e1bdbcf0edad8b16771497b36f68875">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/classes_46510cee5291b69fce4f72ad2dbe8cb4230db44d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bcacde6a8ccedcc56c127403d26b76072fe6214d">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/retrofit-2.3.0_352c97fd020811e06564ff1e175153a742cfe10e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/d6f374bc65c0b739ad67a285540d59fd1f5c46f7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/classes_d4a06dc8a03a6c36038fd2ab8f3a1c3e70776170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/37f895899446d0a48f793debada7b097accd819c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ac83affcebafa4f3c968385f30417f8494a1e562">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/classes_7b7e90995f72e9ab377ab5db472fb552b4d9d6f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/okio-1.13.0_c266e44a50c0d00233a8f794f018a8a2f55b6799.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-scalars/2.1.0/7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5/converter-scalars-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7c0d7c8f6e52115bb82fa018d81a8d0cae35dde5">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/converter-scalars-2.1.0_5cec4f147594d12a6aca56eaae6b72ac178186b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.1.3/c6a633c63607f09f77f424b5c52522a7607cedae/rxjava-2.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c6a633c63607f09f77f424b5c52522a7607cedae">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/rxjava-2.1.3_35da6819528983848ea4e5be323bac55377fae4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/xinran/danke/mygithub/DanKeLianxiSheng/nicedialog/build/intermediates/bundles/default/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="db7b915b5b8d531e0467b986f0dd0bc3da0aa70f">
         <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/debug/classes_afd7baba50faca02dc7660a3e5eedc104f6fea98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/converter-gson-2.1.0_31ecce65309831b4563cf9c1a31923737f48bd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/3cb5005c9b1b1bc481bb8cdc0f4f8d76af283a43/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/classes_3d79528ad61b88fa7a6047bc9d0723fc46fbfe00.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.trello.rxlifecycle2/rxlifecycle/2.1.0/ceb847e21d527d2ef285cd3dd187379220ffb223/rxlifecycle-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ceb847e21d527d2ef285cd3dd187379220ffb223">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/rxlifecycle-2.1.0_2a2fd1bc4f5a3f905323c1b9c9669a3fbb11658c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.1/1b1c911686eb40179219466e6a59b634b9d7a748/reactive-streams-1.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1b1c911686eb40179219466e6a59b634b9d7a748">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/reactive-streams-1.0.1_9703498a4719e9f0e7dabe5ca04c8920517085d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/okhttp-3.8.1_7ab716fba57887eab4307b9414a457d6b5263c9e.jar" />
     </item>
 
 </items>

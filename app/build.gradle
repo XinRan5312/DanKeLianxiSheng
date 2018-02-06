@@ -78,8 +78,27 @@ android {
     buildTypes {
         release {
             minifyEnabled false
+            debuggable false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
             debuggable true
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        mock {
+            applicationIdSuffix = ".mock"
+        }
+        prod {
+        }
+    }
+    // Remove mockRelease as it's not needed.
+    android.variantFilter { variant ->
+        if(variant.buildType.name.equals('release')
+                && variant.getFlavors().get(0).name.equals('mock')) {
+            variant.setIgnore(true);
         }
     }
 }
@@ -122,6 +141,7 @@ dependencies {
     // https://github.com/tbruyelle/RxPermissions
     compile 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.1@aar'
     compile project(':nicedialog')
+
  //https://github.com/Kyson/AndroidGodEye/ 在PC查看手机性能
 //    apply plugin: 'announce'
 //    implementation 'cn.hikyson.godeye:godeye-core:VERSION_NAME'

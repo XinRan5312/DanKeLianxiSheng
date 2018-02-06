@@ -87,7 +87,14 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
-    productFlavors {
+    productFlavors {//它和上面的buildTypes组合形成不同的Build variant
+        //其实每个独立的productFlavor变体（variant）选择构建后都是一个独立的APK，因为我可以改变applicationIdSuffix
+        //compileSdkVersion 等信息  而且我可以在每个不同的变体中实现自己独有的逻辑，比如下面的两个变体我在项目目录中建立了同样的
+        //类同样的方法，但是方法的实现方式不一样的，这就达到了，不同变体的多样性实现
+
+        //注：1.在建立每个变体的类时一定保证根包名根主项目（main的java下的类）的相同，不然主要项目将无法引用他们
+        //   2.每个变体的类和方法名字要保证一样（以便在主项目调用时实现多向性），除非是不暴露给主项目用的，只是变体内部用的
+
         mock {
             applicationIdSuffix = ".mock"
         }

@@ -35,3 +35,11 @@
 
 16.https://www.jianshu.com/p/98ee75dd49f4 在mock和prod不同的变体 同样的类同样的方法 但是方法的实现内容不一样 实现不同的效果
     也可以看做是不同的安装包，手机上也会成为俩APP
+    
+17.https://github.com/Zane96/ICY-ClaTable ###网络请求模块(Retrofit2使用的小技巧)
+
+18.支持RecylerView上拉加载更多下拉刷新神库https://github.com/anzaizai/EasyRefreshLayout
+
+19.RecyclerView粘性标签库很强大： https://github.com/oubowu/PinnedSectionItemDecoration
+
+20.条目滑动删除神库： https://github.com/anzaizai/EasySwipeMenuLayout

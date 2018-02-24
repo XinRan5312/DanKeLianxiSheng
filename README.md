@@ -43,3 +43,5 @@
 19.RecyclerView粘性标签库很强大： https://github.com/oubowu/PinnedSectionItemDecoration
 
 20.条目滑动删除神库： https://github.com/anzaizai/EasySwipeMenuLayout
+
+21.https://github.com/linsir6 一个良心Android开发者 有好多新的学习分享 还有一个完成的仿京东商城项目

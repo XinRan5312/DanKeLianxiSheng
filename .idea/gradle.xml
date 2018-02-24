@@ -9,6 +9,10 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/freshmore" />
+            <option value="$PROJECT_DIR$/libs" />
+            <option value="$PROJECT_DIR$/libs/danke-share" />
+            <option value="$PROJECT_DIR$/libs/danke-ut" />
             <option value="$PROJECT_DIR$/nicedialog" />
           </set>
         </option>

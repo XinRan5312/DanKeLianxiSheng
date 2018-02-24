@@ -148,6 +148,9 @@ dependencies {
     // https://github.com/tbruyelle/RxPermissions
     compile 'com.tbruyelle.rxpermissions2:rxpermissions:0.9.1@aar'
     compile project(':nicedialog')
+    compile project(':freshmore')
+    //https://www.jianshu.com/p/1e20f301272e
+    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.22'
 
  //https://github.com/Kyson/AndroidGodEye/ 在PC查看手机性能
 //    apply plugin: 'announce'

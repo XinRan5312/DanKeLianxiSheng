@@ -30,6 +30,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/9a12dfb16415712796ca9d54aa6e606274dd8afc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ad51b2df48380879341ed35a375000f0049159d1">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/prod/debug/classes_295b9debf957fb9692c9e88565252383ca2c77d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/xinran/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar"
         jumboMode="false"
         optimize="true"
@@ -39,12 +48,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/xinran/.android/build-cache/371aff48201e44e51eb90c64b532d87e8076c480/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b7219f056e3abdba2d60d235b2593dff1928c3ae">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/prod/debug/classes_15c9bd9ce839a285b202656245e37b91a7b002bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/xinran/.android/build-cache/d6f374bc65c0b739ad67a285540d59fd1f5c46f7/output/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
         sha1="a1589af4546e0299f3e0c77de3215ecfd3a0e19d">
         <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/mock/debug/classes_d4a06dc8a03a6c36038fd2ab8f3a1c3e70776170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/xinran/danke/mygithub/DanKeLianxiSheng/freshmore/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9229cab511c3dac5f1b81a5f2e085a51eefcdeee">
+        <dex dex="/Users/xinran/danke/mygithub/DanKeLianxiSheng/app/build/intermediates/pre-dexed/prod/debug/classes_22423408b662decaad10ce3f4189f605aa67a254.jar" />
     </item>
     <item
         is-multidex="false"
